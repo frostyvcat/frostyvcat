@@ -1,5 +1,5 @@
 ## Contact Information
-- Discord: **awrjosip8**
+- Discord: **frostyvcat**
 - Roblox: [frosty cat](https://www.roblox.com/users/68904454/profile)
 - Github: [frosty cat](https://github.com/frostyvcat)
 
