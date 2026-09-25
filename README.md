@@ -5,8 +5,10 @@
 
 
 ## Professional Summary
-A game developer with 4+ years of LuaU experience. Worked on games such as [Don't Leave Your TV On](https://www.roblox.com/games/14239772624/Dont-Leave-Your-TV-On), [Street Projects](https://www.roblox.com/games/70918042652271/FREE-GUNS-Street-Projects), [Forked Humans](https://www.roblox.com/games/119873572281324/Fork-Humans-UPD) as a scripter.
-Dont Leave Your TV On gained notable recognition being played by Youtubers such as 
+Game developer with 4+ years of experience in LuaU and Roblox game development, having contributed as a scripter to several projects, including **Don't Leave Your TV On**, **Street Projects**, and **Forked Humans**.
+
+[Don't Leave Your TV On](https://www.roblox.com/games/14239772624/Dont-Leave-Your-TV-On), [Street Projects](https://www.roblox.com/games/70918042652271/FREE-GUNS-Street-Projects), [Forked Humans](https://www.roblox.com/games/119873572281324/Fork-Humans-UPD) as a scripter.
+Dont Leave Your TV On gained notable recognition from several major Youtubers, including:
 - Thinknoodles: [Youtube Link](https://www.youtube.com/watch?v=CnTxw1JxsrU) **12.3M Subscribers**
 - Sketch: [Youtube Link](https://www.youtube.com/watch?v=NCzQ52cdJe4) **5.37M Subscribers**
 - Foltyn: [Youtube Link](https://www.youtube.com/watch?v=1gUyXuu50P0) **7.28M Subscribers**
@@ -19,6 +21,9 @@ Dont Leave Your TV On gained notable recognition being played by Youtubers such 
 
 
 ## Past Work
+- Sword System [Medal Link](https://medal.tv/games/roblox-studio/clips/nA3Wxbw4TsLVg6B-o?invite=cr-MSx2V0ssNjE5NjA4NjU)
+- Horror Game Movement System [Medal Link](https://medal.tv/games/roblox-studio/clips/nkSYmFCuHFZAEo8aW?invite=cr-MSxGZ0osNjE5NjA4NjU)
 - Tower Defense System: [Medal Link](https://medal.tv/games/roblox-studio/clips/lbpBKOIcUWaNmC5b_?invite=cr-MSxtRVEsNjE5NjA4NjU&v=21)
 - Snowball Game inspired by Slap Battles: [Medal Link 1](https://medal.tv/games/roblox-studio/clips/jRyDOaFh3wPfzXHjE?invite=cr-MSxRU0IsNjE5NjA4NjU&v=21) [Medal Link 2](https://medal.tv/games/roblox-studio/clips/jPtKOZEaVJ_dhL9Pk?invite=cr-MSxUalcsNjE5NjA4NjU&v=34)
 - Old version of [Forked Humans](https://www.roblox.com/games/119873572281324/Fork-Humans-UPD) [Medal Link](https://medal.tv/games/roblox-studio/clips/jYZ2L2djlhz0j2-Nr?invite=cr-MSxuRXIsNjE5NjA4NjU&v=21)
+- Optimized Keycap System [Medal Link](https://medal.tv/games/roblox-studio/clips/mLMcz9nPkKEZw-jsL?invite=cr-MSx6QTYsNjE5NjA4NjU)
